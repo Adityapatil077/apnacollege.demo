@@ -1,3 +1,3 @@
 # apnacollege.demo
 Hellow Github <br>
-Author - Aditya Patil
+Author - Aditya Salunkhe
